@@ -1,0 +1,13 @@
+# AI Pathfinder - Python Dependencies
+# AI2002 Assignment 1 - Question 7
+# Install all dependencies: pip install -r requirements.txt
+
+# Visualization library for GUI
+matplotlib>=3.5.0
+
+# Numerical computing library for arrays and grid operations
+numpy>=1.21.0
+
+# Note: These are the minimum versions required
+# The project will work with newer versions as well
+# Tested on Python 3.7+
